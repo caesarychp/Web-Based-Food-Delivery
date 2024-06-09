@@ -54,7 +54,7 @@ With the increasing demand for food delivery services, there is a need for a rel
 - **Navigation**: Get directions to restaurant and delivery locations.
 - **Update Order Status**: Update the status of deliveries in real-time.
 
-## Technologies Used
+## Technologies Stack
 
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: PHP
